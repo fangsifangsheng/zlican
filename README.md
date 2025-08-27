@@ -9,7 +9,6 @@
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/ElementUI-409EFF?logo=element&logoColor=white"/>
   </div>
 </div>
 
@@ -18,7 +17,6 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gin-0096D6?logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   </div>
 </div>
 </div>
