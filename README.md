@@ -15,7 +15,6 @@
 <div style="width: 280px; padding: 20px; background: #161b22; border-radius: 10px;">
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center">
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gin-0096D6?logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
   </div>
 </div>
