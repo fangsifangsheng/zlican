@@ -4,13 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;BUILDING+IN+PUBLIC;AI+%2F+CONTENT+%2F+AUTOMATION;WELCOME+TO+MY+GITHUB+SPACE" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=windows-terminal&logoColor=black" alt="status" />
   <img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge&logo=stackshare&logoColor=white" alt="mode" />
   <img src="https://komarev.com/ghpvc/?username=zlican&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="profile views" />
 </p>
-
 
 ```text
 > boot sequence initialized...
@@ -29,13 +27,11 @@
   </picture>
 </p>
 
-
 ## `Tech Matrix`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,py,js,ts,html,css,vscode" alt="skills" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-00f0ff?style=flat-square&logo=openai&logoColor=black" alt="ChatGPT" />
@@ -45,7 +41,6 @@
   <img src="https://img.shields.io/badge/Telegram-2aa9ff?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/Google-00f0ff?style=flat-square&logo=google&logoColor=black" alt="Google" />
 </p>
-
 
 ## `Current Signal`
 
@@ -60,4 +55,3 @@
     <img src="https://img.shields.io/badge/GitHub-zlican-00f7ff?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </p>
-
