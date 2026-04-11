@@ -31,7 +31,7 @@ signal   making useful things for the internet
 core      ChatGPT / Codex / GitHub
 content   YouTube / X / Telegram
 search    Google
-dev       Python / JavaScript / TypeScript / HTML / CSS
+dev       Golong / JavaScript
 ```
 
 ## /contributions
