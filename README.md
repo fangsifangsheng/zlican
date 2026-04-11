@@ -1,4 +1,4 @@
-# `ZLICAN // CYBER TERMINAL`
+# `ZLICAN`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;BUILDING+IN+PUBLIC;AI+%2F+CONTENT+%2F+AUTOMATION;WELCOME+TO+MY+GITHUB+SPACE" alt="Typing SVG" />
